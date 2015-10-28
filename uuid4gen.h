@@ -20,5 +20,5 @@
  * THE SOFTWARE.
  */
 
-       uint8_t uuid4gen(char **, uint8_t);
+       uint8_t uuid4gen(char **);
 static uint8_t uuid4init = 0;
